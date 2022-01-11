@@ -1,9 +1,12 @@
 ## Overview ##
-...
+A little helper to parse Gedcom files.
 
 
 ## Installation ##
-...
+### Add it to your project with: ###
+```shell
+composer require novusvetus/gedcomparser
+```
 
 
 ## License ##
@@ -24,10 +27,6 @@ Please read over existing issues before submitting an issue to ensure yours is u
 ## Development and contribution ##
 Feature requests can also be made by [creating a new issue](../../issues/new).
 If you would like to make contributions to this repository, feel free to [create a fork](../../fork) and submit a pull request.
-
-
-## Thanks to ##
-...
 
 
 ## Links ##
